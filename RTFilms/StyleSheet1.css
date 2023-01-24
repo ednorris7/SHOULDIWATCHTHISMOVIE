@@ -1,0 +1,41 @@
+﻿body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 65px;
+}
+
+#form1 {
+    text-align: center;
+}
+
+#btnSearch {
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: double;
+    border-radius: 4px;
+}
+
+#btnSearch:hover {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: double;
+    border-radius: 4px;
+}
+
+#txtSearch {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 10px 30px;
+    border: 2px solid white;
+    border-radius: 4px;
+}
